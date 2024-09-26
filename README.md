@@ -13,11 +13,11 @@ This is a simple quiz application built using HTML, CSS, and JavaScript. The app
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/quiz-app.git
+    git clone https://github.com/Lavinia-81/Quiz-App.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd quiz-app
+    cd Quiz-App
     ```
 3. Open `index.html` in your browser to start the quiz.
 
