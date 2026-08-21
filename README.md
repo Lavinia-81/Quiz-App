@@ -42,7 +42,7 @@ Quiz-App/
 │
 ├── index.html        # Main quiz interface
 ├── style.css         # Styling and layout
-├── app.js            # Quiz logic and interactivity
+├── script.js            # Quiz logic and interactivity
 │
 └── README.md         # Documentation
 ```
